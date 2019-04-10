@@ -1,6 +1,6 @@
 {
-  "name": "create-next-app",
-  "description": "Create Next.js apps in one command",
+  "name": "@kayteh/create-next-app",
+  "description": "Create Next.js apps in one command, but with styled-components, stylelint, standard, jest, and flow",
   "version": "0.5.9",
   "main": "index.js",
   "license": "MIT",

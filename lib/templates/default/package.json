@@ -5,5 +5,11 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "standard": {
+    "parser": "babel-eslint",
+    "plugins": [
+      "flowtype"
+    ]
+  }
 }
